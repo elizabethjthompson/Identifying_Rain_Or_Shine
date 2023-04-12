@@ -1,1 +1,1 @@
-# Identifying_Rain_Or_Shine
+Identifying Rain or Shine Using AlexNet
